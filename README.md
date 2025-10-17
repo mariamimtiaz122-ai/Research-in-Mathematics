@@ -12,6 +12,29 @@ With hands-on experience in **MATLAB, Python, and symbolic computation**, I aim 
 
 ---
 
+## 📂 Repository Contents  
+
+| File / Folder | Description |
+|----------------|-------------|
+| `Fourier Series Approximation.m` | MATLAB script implementing Fourier Series approximation for signal analysis. |
+| `Simulink model.m` | MATLAB Simulink-based model for system simulation. |
+| `Mphil_Thesis_Abstract_and_Introduction.pdf` | Abstract and introduction of my M.Phil. thesis (typeset in LaTeX Overleaf). |
+| `Mphil_Thesis_Abstract_and_Introduction.zip` | Complete LaTeX Overleaf files for my M.Phil. thesis. |
+| `Some_New_Notions_of_Continuity_in_Generalized_Primal_Topological_Space__1_.zip` | Research paper and supporting materials in LaTeX format. |
+| `axioms-14-001411.pdf` | Published research paper related to generalized topology. |
+| `mathematics-12-03995.pdf` | Published research article on generalized and primal topological structures. |
+| `data_model.py` | Example Python script for representing computational data structures. |
+| `matlab question01` | MATLAB-based problems and conceptual exercises for modeling and learning. |
+
+---
+## 🛠️ Tools & Languages  
+- **MATLAB / Simulink** – Modeling, analysis, and mathematical visualization  
+- **LaTeX / Overleaf** – Professional typesetting for academic publications  
+- **Python** – For data analysis and structural modeling  
+- **GitHub** – For version control and collaboration  
+
+---
+
 ## 🧮 MATLAB Work Overview
 
 This section contains MATLAB scripts and models developed during my **MPhil research** and coursework.  
@@ -24,7 +47,7 @@ Each project focuses on computational approaches to mathematical analysis and mo
 - **Simulink Model:**  
   Demonstrates dynamic system modeling and simulation for mathematical process analysis.
 
-- **Mathematical Exercises (matlab question01):**  
+- **Mathematical Exercises:**  
   Contains short problem-based MATLAB programs focusing on computational problem-solving.
 
 ### 🔹 File List
@@ -63,7 +86,9 @@ This repository also archives selected publications and research documents from 
  - “Some New Notions of Continuity in Generalized Primal Topological Space”
 
 📚 View all my publications here:
-🔗 ResearchGate — Mariam Imtiaz
+🔗 [ResearchGate — Mariam Imtiaz](https://www.researchgate.net/profile/Mariam-Imtiaz-5)
+
+---
 
 ### 🔹 Research Themes
 - **Neutrosophic Topology & Logic:** Modeling uncertainty and multi-valued reasoning.  
