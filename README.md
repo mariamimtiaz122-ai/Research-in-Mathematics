@@ -1,4 +1,4 @@
-# Research in Computational Mathematics and Data Science
+# Research in Computational Mathematics and Generalized Topology
 
 👋 **Author:** Mariam Imtiaz  
 🎓 MPhil & MSc Gold Medalist in Mathematics, Pakistan  
