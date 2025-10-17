@@ -1,6 +1,6 @@
 # 🎓 Research Portfolio — Mariam Imtiaz
 
-**MPhil & MSc Gold Medalist in Mathematics | Researcher in Computational Mathematics, Topology, and Data Science**
+**MPhil & MSc Gold Medalist in Mathematics | Researcher in Computational and Pure Mathematics, Topology, and Data Science**
 
 ---
 
