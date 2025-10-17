@@ -28,11 +28,11 @@ Each project focuses on computational approaches to mathematical analysis and mo
   Contains short problem-based MATLAB programs focusing on computational problem-solving.
 
 ### 🔹 File List
-Fourier Series Approximation.m
-Simulink model.m
-matlab question01
-Mphil_Thesis_Abstract_and_Introduction.pdf
-Mphil_Thesis_Abstract_and_Introduction.zip
+- Fourier Series Approximation.m
+- Simulink model.m
+- matlab question01
+- Mphil_Thesis_Abstract_and_Introduction.pdf
+- Mphil_Thesis_Abstract_and_Introduction.zip
 
 Each `.m` file is executable in MATLAB and documented for reproducibility and clarity.
 
@@ -57,10 +57,10 @@ data_model.py
 This repository also archives selected publications and research documents from my MPhil work in **Generalized and Neutrosophic Topological Spaces**, focusing on mathematical logic, truth–indeterminacy–falsity relations, and continuity notions.
 
 ### 🔹 Research Papers
-axioms-14-001411.pdf
-mathematics-12-03995.pdf
-Some_New_Notions_of_Continuity_in_Generalized_Primal_Topological_Space__1_.zip
-“Some New Notions of Continuity in Generalized Primal Topological Space”
+- axioms-14-001411.pdf
+- mathematics-12-03995.pdf
+- Some_New_Notions_of_Continuity_in_Generalized_Primal_Topological_Space__1_.zip
+ - “Some New Notions of Continuity in Generalized Primal Topological Space”
 
 📚 View all my publications here:
 🔗 ResearchGate — Mariam Imtiaz
@@ -75,7 +75,7 @@ Some_New_Notions_of_Continuity_in_Generalized_Primal_Topological_Space__1_.zip
 ## 💡 Future Direction
 
 I aim to extend my expertise into **computational intelligence**, **data-driven modeling**, and **interpretable AI** — integrating mathematical reasoning with algorithmic systems.  
-This interdisciplinary vision aligns with Professor Atsushi Suzuki’s work in **data science, algorithmic modeling, and intelligent computation**.
+This interdisciplinary vision aligns with **data science, algorithmic modeling, and intelligent computation**.
 
 ---
 
