@@ -15,7 +15,7 @@ This repository presents a concise portfolio that bridges **mathematical theory*
 - `Sample_Code_Python.py` — Simple demonstration of data analysis and visualization.  
 - `MATLAB_Model.m` — MATLAB script demonstrating mathematical modeling and plotting.  
 - `MPhil_Abstract.pdf` — Short abstract / summary of my MPhil research (or full thesis PDF).  
-- `Selected_Publication.pdf` — One published paper (optional).  
+- `Selected_Publication.pdf` — One published paper.  
 
 ---
 
