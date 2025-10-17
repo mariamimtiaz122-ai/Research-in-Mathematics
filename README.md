@@ -16,8 +16,8 @@ With hands-on experience in **MATLAB, Python, and symbolic computation**, I aim 
 
 | File / Folder | Description |
 |----------------|-------------|
-| `Fourier Series Approximation.m` | MATLAB script implementing Fourier Series approximation for signal analysis. |
-| `Simulink model.m` | MATLAB Simulink-based model for system simulation. |
+| `Fourier Series Approximation.m` | MATLAB script implementing Fourier Series approximation. |
+| `Simulink model.m` | MATLAB Simulink-based model for Mass-spring system. |
 | `Mphil_Thesis_Abstract_and_Introduction.pdf` | Abstract and introduction of my M.Phil. thesis (typeset in LaTeX Overleaf). |
 | `Mphil_Thesis_Abstract_and_Introduction.zip` | Complete LaTeX Overleaf files for my M.Phil. thesis. |
 | `Some_New_Notions_of_Continuity_in_Generalized_Primal_Topological_Space__1_.zip` | Research paper and supporting materials in LaTeX format. |
