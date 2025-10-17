@@ -67,7 +67,7 @@ Each `.m` file is executable in MATLAB and documented for reproducibility and cl
 This repository also includes introductory Python code representing my growing interest in data science and AI.
 
 ### 🔹 File List
-data_model.py
+- data_model.py
 - simple_algorithm.py
 
 ### 🔹 Focus
