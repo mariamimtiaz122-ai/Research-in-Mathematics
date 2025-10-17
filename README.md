@@ -8,7 +8,7 @@
 
 I am an **MPhil and MSc Gold Medalist in Mathematics from Pakistan**, with a passion for integrating mathematical reasoning with computational and data-driven techniques.  
 My academic journey bridges **pure mathematics** and **computer science**, focusing on the development of interpretable, intelligent, and mathematically grounded systems.  
-With hands-on experience in **MATLAB, Python, and symbolic computation**, I aim to contribute to cutting-edge research in **data science, AI modeling, and computational intelligence**, particularly under **Professor Atsushi Suzuki’s supervision**.
+With hands-on experience in **MATLAB, Python, and symbolic computation**, I aim to contribute to cutting-edge research in **data science, AI modeling, and computational intelligence**.
 
 ---
 
