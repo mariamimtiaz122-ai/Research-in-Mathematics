@@ -1,0 +1,21 @@
+syms R v1 v2 i1 i2 i3
+% Define the coefficient matrix A
+A = [2*R -R 0; 
+    -R 3*R -R; 
+     0 -R -2*R];
+
+% Define the RHS vector b
+b = [v1; 0; v2];
+
+% Matrix inverse method
+i_inverse = inv(A) * b;
+
+% Matrix division method
+i_division = A \ b;
+
+% Display results
+disp('Currents using matrix inverse method:');
+disp(i_inverse);
+
+disp('Currents using matrix division method:');
+disp(i_division);
