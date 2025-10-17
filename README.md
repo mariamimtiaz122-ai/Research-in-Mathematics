@@ -24,6 +24,7 @@ With hands-on experience in **MATLAB, Python, and symbolic computation**, I aim 
 | `axioms-14-001411.pdf` | Published research paper related to generalized topology. |
 | `mathematics-12-03995.pdf` | Published research article on generalized and primal topological structures. |
 | `data_model.py` | Example Python script for representing computational data structures. |
+| `simple_algorithm.py` | Example Python script for simple algorithm. |
 | `matlab question01` | MATLAB-based problems and conceptual exercises for modeling and learning. |
 
 ---
@@ -67,6 +68,7 @@ This repository also includes introductory Python code representing my growing i
 
 ### 🔹 File List
 data_model.py
+- simple_algorithm.py
 
 ### 🔹 Focus
 - Data modeling and structure handling.  
